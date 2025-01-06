@@ -9,13 +9,11 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hitesh6025/Portfolio](https://github.com/Hitesh6025/Portfolio)
+- 👨‍💻 All of my projects are available at [https://hitesh-eight.vercel.app/](https://hitesh-eight.vercel.app/)
 
 - 💬 Ask me about **reactJS, JAVA, Data structure. I always love to share my knowledge.**
 
 - 📫 How to reach me **feel free to contact me through my gmail sharma.hitesh6992@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PuPO4hHHyMZf7ZAEturnQ1afLUJXriXx/view?usp=drive_link](https://drive.google.com/file/d/1PuPO4hHHyMZf7ZAEturnQ1afLUJXriXx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
