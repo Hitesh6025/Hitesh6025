@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 👨‍💻 All of my projects are available at [https://hitesh-eight.vercel.app/](https://hitesh-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hitesh-eight.vercel.app/](https://hitesh6025.vercel.app/)
 
 - 💬 Ask me about **reactJS, JAVA, Data structure. I always love to share my knowledge.**
 
